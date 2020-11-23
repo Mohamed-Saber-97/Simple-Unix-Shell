@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606138232 source:/home/mohamed/Desktop/OS/Example of Project 1/Simple Unix Shell/main.cpp
+	<iostream>
+	<vector>
+	<unistd.h>
+	<string.h>
+	<wait.h>
+	<fstream>
+	<stdlib.h>
+
